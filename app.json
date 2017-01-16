@@ -9,7 +9,6 @@
   "repository": "https://github.com/mohiva/play-silhouette-seed",
   "success_url": "/",
   "env": {
-    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-scala.git",
     "PLAY_CONF_FILE": "application.prod.conf",
     "PLAY_APP_SECRET": "23443fssdf34fgdfg",
     "FACEBOOK_CLIENT_ID": {
